@@ -1,2 +1,2 @@
 # bay-area-commute-analysis
-Using public transportation and commute time data to evaluate regional accessibility.
+This project uses Python to analyze Bay Area commute data to understand how transportation infrastructure affects travel time. By comparing average commute times across cities and transportation modes, the analysis highlights where public transit is time competitive with driving and where commuters rely heavily on cars. The goal is to explore how transit efficiency relates to overall commute burden and regional accessibility.
